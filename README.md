@@ -1,11 +1,15 @@
 # gitskills
 
 git checkout -b <new branch name>
-# git checkout 命令加上-b参数，表示创建并切换
+# git checkout 鍛戒护鍔犱笂-b鍙傛暟锛岃〃绀哄垱寤哄苟鍒囨崲
 
-Git is a distributed version control system
-Git is free software distributed under the GPL
-Git has a mutable index called stage
-Git tracks change of files
-creating a new branch is quick and simple
+Git is a distributed version control system.
+
+Git is free software distributed under the GPL.
+
+Git has a mutable index called stage.
+
+Git tracks change of files.
+
+creating a new branch is quick and simple.
 
