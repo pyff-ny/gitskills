@@ -13,3 +13,17 @@ Git tracks change of files.
 
 creating a new branch is quick and simple.
 
+# test
+## test
+### test
+**test**
+***test***
+*test*
+
+```
+this is for test purpose 
+
+```
+
+* markdown
+* test
